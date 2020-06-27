@@ -1,0 +1,4 @@
+_id
+avg_proxy
+avg_kong
+avg_request
