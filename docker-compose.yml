@@ -8,4 +8,5 @@ services:
     restart: always
     volumes:
       - ./data/mongo:/data/db
-      - ./data/logs:/application-logs
+      - ./data/queries:/queries
+      - ./data/logs:/logs
